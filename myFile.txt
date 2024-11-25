@@ -1,0 +1,5 @@
+Hello, World
+This is my Python Assignment
+This assignment is about file handling and exception handling
+Learning is fun
+Python has been fun so far
